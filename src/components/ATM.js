@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { ImageBackground, View,TouchableOpacity,Text,ScrollView } from "react-native";
-import { FloatingLabelInput } from "./react-native-floating-label-input/index";
+import { FloatingLabelInput } from "react-native-floating-label-input/index";
 import styles from '../styles/atm.style';
 import Header from './Header';
 import images from '../images';
